@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @monaluxhk
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning OSCP
+- 👋 Buenas, soy Monalux
+- 👀 Soy un apasionado del Hacking y he creado este espacio para poder compartir con otros usuarios mi pasión.
+- 🌱 Actualmente estoy realizando el OSCP
 
 <!---
-monaluxhk/monaluxhk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+monaluxhk/monaluxhk es un ✨ especial ✨ repositorio `README.md` (archvio) 
 --->
